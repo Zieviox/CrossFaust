@@ -64,7 +64,7 @@ _ But we still need to have a gamified system, otherwise the community will die 
 
 I'm gonna use a classic tiering system (reaction based leveling and leaderboards), but:
 1. I only researched this, I never did it myself in action, so I'm very likely to bump into security mistakes (botting.. etc) that someone can be more informed than me about, I could use your help with setting it up or at least giving guidance
-2. The simplest way to propell the project is the "Concepts sheet", it's what will drive momentum until the transpiler is doing something, but I need to gamify the contribution too, and spent the past 2 days looking for a bot or a bot tool combo that saves the username of the contributor, as well as recover empty fields to display as an option, there was none feasible, so I need a simple Discord bot (maybe on Discord) to handle that functionality and forward it to gamification bots
+2. The simplest way to propell the project is the "Concepts sheet", it's what will drive momentum until the transpiler is doing something, but I need to gamify the contribution too, and spent the past 2 days looking for a bot or a bot tool combo that saves the username of the contributor, as well as recover empty fields to display as an option, there was none feasible, so I need a simple Discord bot (maybe on Replit) to handle that functionality and forward it to gamification bots
 
 
 Any other recommendations, insights, opinions, questions and/or feedback are welcome.
