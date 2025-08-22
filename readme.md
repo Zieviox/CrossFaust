@@ -1,4 +1,4 @@
-^The FOSS pitch below, is still under construction
+The FOSS pitch below, is still under construction
 
 =======
 We can translate from any Engine API to another, if we map their CONCEPT in a large public database, and that's pretty achievable with Open Source approaches.
